@@ -1,0 +1,13 @@
+
+2020/07/15 20:44:02 [error] 23093#23093: *4 open() "/home/parallels/Desktop/tmp/public/2.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /2.html HTTP/1.1", host: "localhost"
+2020/07/15 20:47:44 [error] 24894#24894: *1 "/usr/share/nginx/html/hello/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /hello/ HTTP/1.1", host: "localhost"
+2020/07/15 20:48:11 [error] 24894#24894: *1 open() "/usr/share/nginx/html/0.0.0.0:8080" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /0.0.0.0:8080 HTTP/1.1", host: "localhost"
+2020/07/15 20:48:56 [error] 24894#24894: *1 open() "/usr/share/nginx/html/0.0.0.0:8080" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /0.0.0.0:8080 HTTP/1.1", host: "localhost"
+2020/07/15 20:49:01 [error] 24894#24894: *1 open() "/usr/share/nginx/html/0.0.0.0:8080" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /0.0.0.0:8080 HTTP/1.1", host: "localhost"
+2020/07/15 21:04:26 [error] 27855#27855: *1 open() "/usr/share/nginx/html/1.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /1.html HTTP/1.1", host: "localhost"
+2020/07/15 21:04:57 [error] 27855#27855: *1 open() "/usr/share/nginx/html/1.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /1.html HTTP/1.1", host: "localhost"
+2020/07/15 21:05:44 [error] 28104#28104: *1 open() "/usr/share/nginx/html/1.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /1.html HTTP/1.1", host: "localhost"
+2020/07/15 21:07:12 [error] 28392#28392: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://0.0.0.0:8080/", host: "localhost"
+2020/07/15 21:07:14 [error] 28392#28392: *1 open() "/usr/share/nginx/html/1.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /1.html HTTP/1.1", host: "localhost"
+2020/07/15 21:07:16 [error] 28392#28392: *1 open() "/usr/share/nginx/html/1.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /1.html HTTP/1.1", host: "localhost"
+2020/07/15 21:07:19 [error] 28392#28392: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://0.0.0.0:8080/", host: "localhost"
